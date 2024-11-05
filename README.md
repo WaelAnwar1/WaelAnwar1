@@ -2,7 +2,7 @@
 - 👀 I’m interested in ERP Sys, Business Analysis, Web Development, IT Management
 - 🌱 I’m currently learning python, Django
 - 💞️ I’m looking to collaborate on Developing a QR Engine
-- 📫 you can reach me over my email
+- 📫 you can reach me over GitHub Platform
 
 
 <!---

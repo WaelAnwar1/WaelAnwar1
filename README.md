@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WaelAnwar
+- 👋 Hi, I’m @Wael
 - 👀 I’m interested in ERP Sys, Business Analysis, Web Development, IT Management
 - 🌱 I’m currently learning python, Django
 - 💞️ I’m looking to collaborate on Developing a QR Engine

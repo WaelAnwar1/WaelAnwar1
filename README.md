@@ -39,4 +39,4 @@
 You wanna know more about me?
 If you're looking for assistance with your team and product, I'm here to help! Don't hesitate to get in touch so we can collaborate and create something truly remarkable together. Let's embark on an exciting journey and build an extraordinary outcome!
 
-🌐 Socials
+🌐 Socials >> 

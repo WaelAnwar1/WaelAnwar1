@@ -1,5 +1,5 @@
 
-👋 Hey! I'm Wael
+👋 Hey! I'm Wael >> 
 💼 I am a highly motivated ERP Projects Manager, Business Analyst Director, IT Director, Softwares Developer
     specializing in front end /backend development. 
     
@@ -12,10 +12,10 @@
 🔗 Discover some of my work here https://github.com/WaelAnwar1 and connect with me at waelanwar@gmail.com
 
 
-💪 Skills & Technologies
+💪 Skills & Technologies >> 
 
 
-🧐 Area of Interest
+🧐 Area of Interest >> 
     Web Development, 
     API design and development, 
     embedded systems development, 
@@ -27,14 +27,14 @@
     IT Infrastructure/Services Consultation.
 
 
-💻 My favorite projects
+💻 My favorite projects >> 
 
 
 
-📚 Latest Blog Posts
+📚 Latest Blog Posts >> 
 
 
-⚡Recent Activity
+⚡Recent Activity >> 
 
 You wanna know more about me?
 If you're looking for assistance with your team and product, I'm here to help! Don't hesitate to get in touch so we can collaborate and create something truly remarkable together. Let's embark on an exciting journey and build an extraordinary outcome!

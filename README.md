@@ -16,19 +16,19 @@
 
 
 🧐 Area of Interest
-Web Development, 
-API design and development, 
-embedded systems development, 
-Automating development workflows and deployment pipelines, 
-Business process analysis, diagrams and enhancements, 
-Systems Integration, 
-Business Problem Solving, 
-IT Infrastructure Assessment, 
-IT Infrastructure/Services Consultation.
+    Web Development, 
+    API design and development, 
+    embedded systems development, 
+    Automating development workflows and deployment pipelines, 
+    Business process analysis, diagrams and enhancements, 
+    Systems Integration, 
+    Business Problem Solving, 
+    IT Infrastructure Assessment, 
+    IT Infrastructure/Services Consultation.
 
 
 💻 My favorite projects
-Projects	Description
+
 
 
 📚 Latest Blog Posts

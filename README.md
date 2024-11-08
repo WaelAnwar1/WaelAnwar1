@@ -5,7 +5,7 @@
     
     currently working as a Senior Director Business Analyst, particularly in ERP Systems for manufacturing.
     
-🚀 Proficient in the PHP, Bootstrap, JavaScript, VB.NET, Python, MS SQL Server, Django, expertise in both NoSQL and RDBMS databases, developer for embedded systems.
+🚀 Proficient in the PHP, Bootstrap, JavaScript, VB.NET, Python, MySQL, MS SQL Server, Django, expertise in both NoSQL and RDBMS databases, developer for embedded systems.
 
 🌱 I'm continuously expanding my knowledge and skills, as I firmly believe that every day presents valuable learning opportunities.
 
